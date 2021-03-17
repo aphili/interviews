@@ -9,7 +9,7 @@ Afin d’évaluer tes compétences en **SQL et Python**, tu trouveras dans le no
 - Pas de pseudo-code.
 - Les requêtes SQL **seront exécutées** lors de la correction donc attention aux alias, virgules, ...
 - Pour la question 5 de chaque langage, comme mentionné dans le notebook, tu peux expliquer ton raisonnement si tu n'arrives pas à le traduire.
-- Si une jointure ou un merge vous est demandé, dans ce cas il est attendu de voir un `JOIN` ou  `.merge` dans la requête / le code
+- Si une jointure ou un merge t'es demandé, dans ce cas il est attendu de voir un `JOIN` ou  `.merge` dans la requête / le code
 - Il n'y a pas de contrainte de temps. Cependant la date à laquelle nous recevrons ton travail sera prise en compte.
 
 ### Recommandation(s) : 
